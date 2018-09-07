@@ -1,2 +1,2 @@
 # Algorithm-Discussions
-Contains discussion of Algorithms
+Includes discussions of various Algorithms
