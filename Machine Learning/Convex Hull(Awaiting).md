@@ -62,13 +62,10 @@ For code: reference [1]
 
 ### References
 
-1.
-[https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/](Geeksforgeeks:
-Graham Scan Algorithm)
+1. [Geeksforgeeks: Graham Scan Algorithm](https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/)
 
-2. [http://www.dcs.gla.ac.uk/~pat/52233/slides/Hull1x1.pdf](Graham Scan Slides)
+2. [Graham Scan Slides](http://www.dcs.gla.ac.uk/~pat/52233/slides/Hull1x1.pdf)
 
-3.
-[https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/](Convex
-Hull in C++ and Python - OpenCV) by Kushashwa Ravi Shrimali
+3. [Convex
+Hull in C++ and Python - OpenCV) by Kushashwa Ravi Shrimali](https://www.learnopencv.com/convex-hull-using-opencv-in-python-and-c/)
 
